@@ -1,0 +1,21 @@
+{
+    "name": "gr433_buaal/nfvvmev-m5",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "npmz",
+            "email": "bugrov.sash@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "core/Src/",
+            "": "app/"
+    }
+}
+}
