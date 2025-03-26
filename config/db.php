@@ -1,10 +1,10 @@
 <?php
 return [
     'driver' => 'mysql',
-    'host' => 'db',
-    'database' => 'db',
-    'username' => 'root',
-    'password' => 'QWEasd123',
+    'host' => 'localhost',
+    'database' => 'esrihtfp_m5',
+    'username' => 'esrihtfp',
+    'password' => '6pJztr',
     'charset' => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix' => '',
