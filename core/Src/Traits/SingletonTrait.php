@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Src\Traits;
 
 //Позволяет для любого класса организовать паттерн Одиночка
@@ -16,5 +15,6 @@ trait SingletonTrait
 
     private function __construct()
     {
+
     }
 }
